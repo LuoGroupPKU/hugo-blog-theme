@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 骆明川
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mingchuan Luo
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Peking University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
