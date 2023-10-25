@@ -6,8 +6,8 @@ title: 骆明川
 name_pronunciation: Mingchuan Luo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mingchuan
+last_name: Luo
 
 # Status emoji
 status:
